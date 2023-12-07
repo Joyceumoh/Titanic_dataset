@@ -16,7 +16,7 @@ Also, ‘Cabin’ is dropped because it contains too many null values. In the Em
 •	‘Embarkation port’: Tells us the locations the passengers embarked from                                                                                                                                                     
 •	‘Family’: Tells us the passengers with or without family members   
 
-Links to the full dataset here https://www.kaggle.com/datasets/brendan45774/test-file                                                                                                                                                                                                                                                                                   
+Links to the dataset here https://www.kaggle.com/datasets/brendan45774/test-file                                                                                                                                                                                                                                                                                   
 https://www.kaggle.com/competitions/titanic/data?select=train.csv
 
 **Exploratory Data Analysis (EDA)**
